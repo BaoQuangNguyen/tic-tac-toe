@@ -26,7 +26,6 @@ body {
     justify-content: center;
     align-items: center;
     background-color: lightgray;
-    border-radius: 5vmin;
     gap: 1vmin;
     margin-bottom: 7vmin;
     padding: 2vmin;
@@ -38,7 +37,6 @@ body {
 
 #board > div {
 border: 7.5vmin solid black;
-border-radius: 50%;
 background-color: black;
 margin: 0;
 padding: .5vmin;
